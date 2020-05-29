@@ -1,5 +1,5 @@
 # Image-Forgery-Detection
-This is my final year project where we detected tampered images using cnn and ela
+This is my final year project where we detected tampered images using Convolutional network and Error Level Analysis.
 
 Project Members are Pooja Mourya,Neha Pandey,Aishwarya Nevrekar. 
 
